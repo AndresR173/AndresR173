@@ -1,4 +1,13 @@
+<p align="center">
+<img src="https://fontmeme.com/permalink/200709/9ae6522adf9eb2309e938088cce742fa.png">
+</p>
+
+
 ### Hi there 👋
+
+I am a mobile developer with experience in different technologies and platforms like Android, iOS, Flutter.
+
+Currently, I am an active member of the Flutter and iOS community in Medellín, where I work as part of the core team. I love contributing to my community, and I think open source is a good way to help other developers succeed.
 
 <!--
 **AndresR173/AndresR173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
