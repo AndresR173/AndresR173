@@ -5,21 +5,17 @@
 
 ### Hi there 👋
 
-I am a mobile developer with experience in different technologies and platforms like Android, iOS, Flutter.
+I am a mobile developer with experience in different technologies such as Android, iOS, Flutter.
 
-Currently, I am an active member of the Flutter and iOS community in Medellín, where I work as part of the core team. I love contributing to my community, and I think open source is a good way to help other developers succeed.
+I love contributing to my community, and I think open source is a good way to help other developers succeed.
 
-<!--
-**AndresR173/AndresR173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Flutter and SwiftUI
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andres-felipe-rojas-rodriguez/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andresr173&show_icons=true&theme=gotham" alt="andresr173" />
+
+</details>
