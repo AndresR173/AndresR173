@@ -13,9 +13,8 @@ I love contributing to my community, and I think open source is a good way to he
 - 🌱 I’m currently learning Flutter and SwiftUI
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andres-felipe-rojas-rodriguez/)
 
-<details>
-<summary>📈 My GitHub Stats</summary>
+
+## 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andresr173&show_icons=true&theme=gotham" alt="andresr173" />
 
-</details>
